@@ -14,20 +14,6 @@ This Flutter project demonstrates REST API integration within a mobile app, feat
 ### Prerequisites
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ZaidBaloch01/rest_api_task.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd rest_api_task
-   ```
-3. Run the app:
-   ```bash
-   flutter run
    ```
 
 ## Search Functionality
